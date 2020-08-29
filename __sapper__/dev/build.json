@@ -1,0 +1,47 @@
+{
+  "bundler": "rollup",
+  "shimport": "1.0.1",
+  "assets": {
+    "main": "client.a23527d9.js"
+  },
+  "dependencies": {
+    "..\\client.js": [],
+    "index.svelte": [
+      "client.a23527d9.js"
+    ],
+    "about.svelte": [
+      "client.a23527d9.js"
+    ],
+    "error.svelte": [
+      "client.a23527d9.js"
+    ],
+    "trash\\index.svelte": [
+      "client.a23527d9.js"
+    ],
+    "trash\\[slug].svelte": [
+      "client.a23527d9.js"
+    ],
+    "blog\\index.svelte": [
+      "client.a23527d9.js"
+    ],
+    "blog\\[slug].svelte": [
+      "client.a23527d9.js"
+    ],
+    "[slug].svelte": [
+      "client.a23527d9.js"
+    ]
+  },
+  "css": {
+    "main": "main.2025103525.css",
+    "chunks": {
+      "index.svelte": [],
+      "about.svelte": [],
+      "error.svelte": [],
+      "trash/index.svelte": [],
+      "trash/[slug].svelte": [],
+      "blog/index.svelte": [],
+      "blog/[slug].svelte": [],
+      "[slug].svelte": []
+    }
+  }
+}
